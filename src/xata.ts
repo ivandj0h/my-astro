@@ -73,7 +73,7 @@ const DatabaseClient = buildClient();
 
 const defaultOptions = {
   databaseURL:
-    "https://James-Q-Quick-s-workspace-l5kbra.us-east-1.xata.sh/db/astro-course-demo",
+    "https://ivandjoh-s-workspace-qdqllm.ap-southeast-2.xata.sh/db/my-astro:main",
 };
 
 export class XataClient extends DatabaseClient<DatabaseSchema> {
