@@ -32,7 +32,7 @@
     "mdast-util-to-string": "^3.2.0",
     "reading-time": "^1.5.0",
     "sanitize-html": "^2.10.0",
-    "svelte": "^4.2.8",
+    "svelte": "^4.2.19",
     "svelte-fa": "^3.0.4",
     "tailwindcss": "^3.3.3"
   },
