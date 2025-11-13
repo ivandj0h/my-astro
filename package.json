@@ -24,7 +24,7 @@
     "@sentry/astro": "^7.92.0",
     "@spotlightjs/astro": "^1.0.9",
     "@xata.io/client": "^0.23.5",
-    "astro": "^5.14.3",
+    "astro": "^5.15.6",
     "bcryptjs": "^2.4.3",
     "date-fns": "^2.30.0",
     "kwesforms": "^2.2.6",
